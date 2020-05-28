@@ -1,0 +1,40 @@
+.link-list {
+  li {
+    padding: 1rem 0;
+    font-size: 1.5rem;
+    border-bottom: 1px dotted #DEDEDE;
+    .search-overlay & {
+      font-size: 1.3rem;
+    }
+  }
+
+  li:last-child {
+      border-bottom: none;
+      list-style-type: none;
+
+  }
+
+  a {
+    color: $darkOrange;
+  }
+}
+
+.profession-link {  
+    font-family: 'Open Sans', sans-serif;
+    font-size: 21px;
+    color: #587296;
+  }
+
+.profession-list {
+  list-style-type: none;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 21px;
+  color: #dc0c21;
+}
+
+.profession-li {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 21px;
+  color: #dc0c21;
+}
+

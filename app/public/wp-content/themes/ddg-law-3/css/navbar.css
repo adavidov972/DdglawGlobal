@@ -1,0 +1,22 @@
+.top-container{
+    margin-top: 15px;
+  }
+  
+  .nav-link {
+    color: #ffffff;
+  }
+  
+  .nav-link:hover {
+    color: #ffffff;
+    border-bottom: 9px solid red;
+    padding: 0px;
+  }
+  
+  .navbar {
+    margin-right: 34.8%;
+  }
+  
+  .nav-link {
+    margin: 0 20px;
+  }
+  

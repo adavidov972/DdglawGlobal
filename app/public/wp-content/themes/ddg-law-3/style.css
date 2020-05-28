@@ -1,0 +1,204 @@
+/*
+Theme Name: DDG Law
+Author : Avi Davidov
+Version: 3.0
+*/
+
+@import "css/variables.css";
+/* @import "css/utility-classes"; */
+@import "css/link-list.css";
+@import "css/navbar.css";
+@import "css/notary-css/notary.css";
+@import "css/notary-css/modal.css";
+
+.rtl {
+  direction: rtl;
+}
+
+.ltr {
+  direction: ltr;
+}
+
+.generic-content {
+    margin-top: 9rem;
+}
+
+.top-banner {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  top: 0px;
+}
+
+.generic-item {
+    border: solid lightseagreen;
+}
+
+.content-rtl {
+    direction: rtl;
+}
+
+#icon {
+  width: 20%
+}
+
+.notary-container {
+text-align: right;
+margin-top: 150px;
+}
+
+.carousel {
+  height: 510px;
+}
+
+.carousel-div {
+  margin: auto;
+}
+
+.row {
+  margin: 0 16.5%;
+}
+
+.strategy{
+  font-family: 'Assistant', sans-serif;
+  color: #dc0c21;
+  font-size: 83px;
+}
+
+.office-section {
+  margin: auto ;
+  text-align: center;
+  height: 145px;
+  margin-bottom: 53px;
+}
+
+.break-line {
+  font-size: 20px;
+}
+
+.opensans-42-bold {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 42px;
+  color: #587296;
+  text-align:center;
+
+}
+
+.opensans-42-bold-light-gray {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 42px;
+  color: #A1afc5;
+  text-align:center;
+  padding-top: 65px;
+}
+
+.office-description {
+  margin: 0 16.5%;
+  text-align: right;
+  height: 267px;
+}
+
+.opensans-40-bold {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 21px;
+  color: #587296;
+}
+
+.profession {
+  background-color: #293444;
+}
+
+.card-proffesion {
+  width: 366px;
+  margin-top: 75px;
+}
+
+.card-header {
+font-family: 'Open Sans', sans-serif;
+font-size: 32px;
+text-align: center;
+color: #587296;
+}
+
+.card-body {
+font-family: 'Open Sans', sans-serif;
+font-weight: 500;
+font-size: 21px;
+line-height: 30px;
+direction: rtl;
+text-align: center;
+color: #ffffff;
+}
+
+.footer-section {
+  background-color: #ffffff;
+  padding-top: 42px;
+  padding-bottom: 100px;
+}
+
+.lets-talk-container {
+  text-align: right;
+}
+
+.lets-talk-header, .partner-name {
+  font-family: 'Open Sans', sans-serif;
+  color: #587296;
+  font-size: 48px;
+}
+
+.partner-email {
+  font-family: 'Open Sans', sans-serif;
+  color: #587296;
+  font-size: 20px;
+}
+
+.modal {
+  height: 900px;
+}
+.lets-talk-form {
+  margin: 0;
+}
+
+.form-group {
+  margin-bottom: 16px;
+}
+
+.card-contact-details {
+  text-align: right;
+  direction: rtl;
+}
+.contact-details, .form-group  {
+font-family: 'Open Sans', sans-serif;
+font-size: 21px;
+color: #587296;
+text-align: right;
+}
+
+.footer {
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.footer-logo {
+  width: 60%;
+}
+
+.send-btn-container {
+  text-align: left;
+  margin-top: 16px;
+}
+
+.btn-send {
+  height: 48;
+  width: 143px;
+}
+
+.section-break {
+    border: none;
+    border-top: 1px solid #DDD;
+    margin: 2.5rem 0;
+  }
+
+  input {
+    text-align:right;
+}

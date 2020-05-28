@@ -1,0 +1,27 @@
+[06-Apr-2020 08:46:21] NOTICE: fpm is running, pid 7354
+[06-Apr-2020 08:46:21] NOTICE: ready to handle connections
+[10-Apr-2020 14:06:54] WARNING: [pool www] child 7362 said into stderr: "sh: -c: line 0: syntax error near unexpected token `newline'"
+[10-Apr-2020 14:06:54] WARNING: [pool www] child 7362 said into stderr: "sh: -c: line 0: `  <div class="d-flex mt-5 mr-4 text-right flex-row-reverse">'"
+[10-Apr-2020 14:08:05] WARNING: [pool www] child 7362 said into stderr: "sh: -c: line 0: syntax error near unexpected token `newline'"
+[10-Apr-2020 14:08:05] WARNING: [pool www] child 7362 said into stderr: "sh: -c: line 0: `  <div class="d-flex mt-5 mr-4 text-right flex-row-reverse">'"
+[10-Apr-2020 14:09:23] WARNING: [pool www] child 7362 said into stderr: "sh: -c: line 0: syntax error near unexpected token `newline'"
+[10-Apr-2020 14:09:23] WARNING: [pool www] child 7362 said into stderr: "sh: -c: line 0: `  <div class="d-flex mt-5 mr-4 text-right flex-row-reverse">'"
+[10-Apr-2020 14:12:12] WARNING: [pool www] child 7362 said into stderr: "sh: -c: line 0: syntax error near unexpected token `newline'"
+[10-Apr-2020 14:12:12] WARNING: [pool www] child 7362 said into stderr: "sh: -c: line 0: `  <div class="d-flex mt-5 mr-4 text-right flex-row-reverse">'"
+[10-Apr-2020 14:16:15] WARNING: [pool www] child 7361 said into stderr: "sh: -c: line 0: syntax error near unexpected token `newline'"
+[10-Apr-2020 14:16:15] WARNING: [pool www] child 7361 said into stderr: "sh: -c: line 0: `<div class="d-flex mt-5 mr-4 text-right flex-row-reverse">'"
+[18-Apr-2020 17:49:12] NOTICE: Terminating ...
+[18-Apr-2020 17:49:13] NOTICE: Terminating ...
+[18-Apr-2020 17:49:13] NOTICE: exiting, bye-bye!
+[18-Apr-2020 18:35:28] NOTICE: fpm is running, pid 2124
+[18-Apr-2020 18:35:28] NOTICE: ready to handle connections
+[08-May-2020 09:51:47] NOTICE: Terminating ...
+[08-May-2020 09:51:47] NOTICE: Terminating ...
+[08-May-2020 09:51:47] NOTICE: exiting, bye-bye!
+[22-May-2020 15:26:23] NOTICE: fpm is running, pid 83472
+[22-May-2020 15:26:23] NOTICE: ready to handle connections
+[22-May-2020 16:55:44] NOTICE: Terminating ...
+[22-May-2020 16:55:44] NOTICE: Terminating ...
+[22-May-2020 16:55:44] NOTICE: exiting, bye-bye!
+[22-May-2020 17:42:22] NOTICE: fpm is running, pid 962
+[22-May-2020 17:42:22] NOTICE: ready to handle connections
